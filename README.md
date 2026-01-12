@@ -1,10 +1,24 @@
-# The only business question: Which markets and customer segments show the strongest and most sustainable adoption of AI tools? (哪些国家 / 行业 / 客户类型，是真的值得卖 AI 工具、值得长期投入的？)
-# There are only 4 subquestions:
-1. 市场层面：哪些 国家 × 行业 的 AI adoption 最高？
-2. 质量层面：高 adoption 是否真的带来高 DAU（真实使用）？
-3. 产品层面：不同 AI 工具的使用“粘性”是否不同？
-4. 客户层面：Startup / SME / Enterprise 谁更有长期价值？
+# Global AI Adoption & Engagement Analysis
 
-A data-driven analysis using Tableau on global AI tool adoption and engagement across countries, industries, and organizational segments. 
-Key components include interactive KPI metrics, market readiness heatmap, usage vs adoption insights, tool engagement comparison, and customer segment usage patterns.
-The dashboard informs go-to-market prioritization, customer segmentation strategy, and product adoption optimization.
+This is an interactive Tableau dashboard project exploring AI tool adoption and engagement 
+across countries, industries, and company sizes.
+
+## Overview
+- Global average adoption rate and total DAU metrics
+- Heatmap of adoption readiness by country and industry
+- Adoption vs Usage scatter with quadrant analysis
+- AI tool engagement comparison
+- Company-size contribution analysis
+
+## Interactive Version
+🔗 **Tableau Public:** https://public.tableau.com/views/GlobalAIAdoptionEngagementAnalysis/GlobalAIAdoptionEngagementAnalysis?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Static Version
+📄 **PDF Export:** Global AI Adoption & Engagement analysis.pdf
+
+## Data
+The summarized data used for this dashboard is included in the `data/` folder.
+
+## How to Use
+View the interactive dashboard on Tableau Public or review the static PDF if preferred.
+
