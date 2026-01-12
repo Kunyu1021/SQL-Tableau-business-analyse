@@ -4,3 +4,7 @@
 2. 质量层面：高 adoption 是否真的带来高 DAU（真实使用）？
 3. 产品层面：不同 AI 工具的使用“粘性”是否不同？
 4. 客户层面：Startup / SME / Enterprise 谁更有长期价值？
+
+A data-driven analysis using Tableau on global AI tool adoption and engagement across countries, industries, and organizational segments. 
+Key components include interactive KPI metrics, market readiness heatmap, usage vs adoption insights, tool engagement comparison, and customer segment usage patterns.
+The dashboard informs go-to-market prioritization, customer segmentation strategy, and product adoption optimization.
